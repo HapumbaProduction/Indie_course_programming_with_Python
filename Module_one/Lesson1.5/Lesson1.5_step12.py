@@ -1,3 +1,3 @@
-a = round(1/3, 2)
+AgeThePerson = int(input())
 
-print(a)
+print(AgeThePerson + 1)
