@@ -1,0 +1,1 @@
+print(f'{(first_number := int(input()))} / {(second_number := int(input()))} = {first_number / second_number}\n{first_number} // {second_number} = {first_number // second_number}\n{first_number} % {second_number} = {first_number % second_number}')
